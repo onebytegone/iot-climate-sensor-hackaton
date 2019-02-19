@@ -29,4 +29,4 @@
 ### Code
 
 * For DHT11/DHT22: https://github.com/onebytegone/iot_esp8266_dht11_adafruitio
-* For BME280: TBD
+* For BME280: https://github.com/onebytegone/iot_esp8266_bme280_adafruitio
